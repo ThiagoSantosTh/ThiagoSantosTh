@@ -9,7 +9,7 @@ Atualmente estou focado em **Front end Developer** e estou construindo produtos 
 
 - ⚡ Javascript Development Intern at eCGlobal Solutions
 - 👨‍💻 Meus pontos fortes ressaltam com HTML, CSS, JavaScript, Bootstrap, MySql
--  📫Como **[entrar](mailto:thiagosantosab070@gmail.com)** em contato comigo **[thiagosantosab070@gmail.com](mailto:thiagosantosab070@gmail.com)**
+- 📫 Como **[entrar](mailto:thiagosantosab070@gmail.com)** em contato comigo **[thiagosantosab070@gmail.com](mailto:thiagosantosab070@gmail.com)**
 
 
  Onde me encontrar  👇
