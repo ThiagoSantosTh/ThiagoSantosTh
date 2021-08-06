@@ -8,7 +8,7 @@ Atualmente estou focado em **Front end Developer** e estou construindo produtos 
 
 
 - ⚡ Javascript Development Intern at eCGlobal Solutions
-- 👨‍💻 Meus pontos fortes ressaltam com HTML, CSS, JavaScript, Bootstrap, MySql
+- 👨‍💻 Meus pontos fortes ressaltam com HTML, CSS, JavaScript, Bootstrap, MySql e UI Design, utilizando a ferramenta Figma, e principalmente venho crescendo a cada dia mais na biblioteca React JS.
 - 📫 Como **[entrar](mailto:thiagosantosab070@gmail.com)** em contato comigo **[thiagosantosab070@gmail.com](mailto:thiagosantosab070@gmail.com)**
 
 
